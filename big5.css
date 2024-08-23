@@ -49,13 +49,13 @@ p {
 .bar1 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(140, 24, 10, 1)0%, rgba(10, 126, 140, 1)100%);
+	background: linear-gradient(135deg, rgba(179, 67, 72, 1)0%, rgba(10, 126, 140, 1)100%);
 }
 
 .bar2 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(67, 179, 174, 1)100%);
+	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(179, 67, 72, 1)100%);
 }
 
 .conscientiousness {
