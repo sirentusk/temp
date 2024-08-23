@@ -46,11 +46,11 @@ p {
 	background: #353b48;
 }
 
-.bar1:hover .bar2:hover {
+.bar1:hover, .bar2:hover {
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
-.bar span {
+.bar1, .bar2 span {
 	height: 20px;
 	float: left;
 	background: linear-gradient(135deg, rgba(236, 0, 140, 1)0%, rgba(252, 103, 103, 1)100%);
@@ -116,5 +116,35 @@ p {
 .withdrawal {
 	
 }
+
+		<span class="bar1"><span class="conscientiousness"></span></span>
+	<li><p>Industriousness 88%</p></li>
+		<span class="bar2"><span class="industriousness"></span></span>
+	<li><p>Orderliness 25%</p></li>
+		<span class="bar2"><span class="orderliness"></span></span>
+	<li><p>Openness 94% 🏹</p></li>
+		<span class="bar1"><span class="openness"></span></span>
+	<li><p>Intellect 94%</p></li>
+		<span class="bar2"><span class="intellect"></span></span>
+	<li><p>Aesthetics 84%</p></li>
+		<span class="bar2"><span class="aesthetics"></span></span>
+	<li><p>Extraversion 89% 🗣️</p></li>
+		<span class="bar1"><span class="extraversion"></span></span>
+	<li><p>Assertiveness 99%</p></li>
+		<span class="bar2"><span class="assertiveness"></span></span>
+	<li><p>Enthusiasm 36%</p></li>
+		<span class="bar2"><span class="enthusiasm"></span></span>
+	<li><p>Agreeableness 20% ✅</p></li>
+		<span class="bar1"><span class="agreeableness"></span></span>
+	<li><p>Compassion 48%</p></li>
+		<span class="bar2"><span class="compassion"></span></span>
+	<li><p>Politeness 7%</p></li>
+		<span class="bar2"><span class="politeness"></span></span>
+	<li><p>Neuroticism 64% 💢</p></li>
+		<span class="bar1"><span class="neuroticism"></span></span>
+	<li><p>Volatility 86%</p></li>
+		<span class="bar2"><span class="volatility"></span></span>
+	<li><p>Withdrawal 31%</p></li>
+		<span class="bar2"><span class="withdrawal"></span></span>
 
 </div>
