@@ -27,8 +27,7 @@ p {
 	padding: 10px;
 }
 
-.bar1 {
-	background: #353b48;
+.bar1, .bar2 {
 	display: block;
 	height: 20px;
 	border: 1px solid rgba(0, 0, 0, 0.3);
@@ -36,6 +35,14 @@ p {
 	overflow: hidden;
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.bar2 {
+	background: #353b40;
+}
+
+.bar1 {
+	background: #353b48;
 }
 
 .bar1:hover .bar2:hover {
