@@ -55,7 +55,7 @@ p {
 .bar2 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(255, 162, 64, 1)0%, rgba(159, 171, 93, 1)100%);
+	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(67, 179, 174, 1)100%);
 }
 
 .conscientiousness {
