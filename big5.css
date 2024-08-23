@@ -49,7 +49,7 @@ p {
 .bar1 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(210, 19, 19, 1)0%, rgba(255, 171, 71, 1)100%);
+	background: linear-gradient(135deg, rgba(140, 24, 10, 1)0%, rgba(10, 126, 140, 1)100%);
 }
 
 .bar2 span {
