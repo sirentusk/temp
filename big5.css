@@ -43,34 +43,40 @@ p {
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
-.bar1 span {
+.bar0 span {
 	height: 20px;
 	float: left;
 	background: linear-gradient(135deg, rgba(179, 67, 72, 1)0%, rgba(10, 126, 140, 1)100%);
 }
 
+.bar1 span {
+	height: 20px;
+	float: left;
+	background: linear-gradient(135deg, rgba(126, 140, 10, 1)0%, rgba(126, 140, 10, 1)100%);
+}
+
 .bar2 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+	background: linear-gradient(135deg, rgba(126, 140, 10, 1)0%, rgba(126, 140, 10, 1)100%);
 }
 
 .bar3 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+	background: linear-gradient(135deg, rgba(126, 140, 10, 1)0%, rgba(126, 140, 10, 1)100%);
 }
 
 .bar4 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+	background: linear-gradient(135deg, rgba(126, 140, 10, 1)0%, rgba(126, 140, 10, 1)100%);
 }
 
 .bar5 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+	background: linear-gradient(135deg, rgba(126, 140, 10, 1)0%, rgba(126, 140, 10, 1)100%);
 }
 
 .conscientiousness {
