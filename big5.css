@@ -70,14 +70,13 @@ p {
 .bar4 span {
 	height: 20px;
 	float: left;
-	background: linear-gradient(135deg, rgba(64, 125, 25, 1)0%, rgba(86, 168, 34, 1)100%);
+	background: linear-gradient(135deg, rgba(10, 74, 140, 1)0%, rgba(13, 99, 188, 1)100%);
 }
 
 .bar5 span {
 	height: 20px;
 	float: left;
-	
-	background: linear-gradient(135deg, rgba(10, 74, 140, 1)0%, rgba(13, 99, 188, 1)100%);
+	background: linear-gradient(135deg, rgba(64, 125, 25, 1)0%, rgba(86, 168, 34, 1)100%);
 }
 
 .conscientiousness {
