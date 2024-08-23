@@ -28,7 +28,7 @@ p {
 	padding: 10px;
 }
 
-.bar1 .bar2 {
+.bar1, .bar2 {
 	display: block;
 	height: 20px;
 	border: 1px solid rgba(0, 0, 0, 0.3);
@@ -46,11 +46,11 @@ p {
 	background: #353b48;
 }
 
-.bar1:hover .bar2:hover {
+.bar1:hover, .bar2:hover {
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
-.bar1 span .bar2 span {
+.bar1 span, .bar2 span {
 	height: 20px;
 	float: left;
 	background: linear-gradient(135deg, rgba(236, 0, 140, 1)0%, rgba(252, 103, 103, 1)100%);
