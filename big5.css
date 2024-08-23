@@ -48,23 +48,73 @@ p {
 
 .bar1:hover .bar2:hover {
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-}	
+}
 
+.bar span {
+	height: 20px;
+	float: left;
+	background: linear-gradient(135deg, rgba(236, 0, 140, 1)0%, rgba(252, 103, 103, 1)100%);
+}
 
-bar2
-conscientiousness
-industriousness
-orderliness
-openness
-intellect
-aesthetics
-extraversion
-assertiveness
-enthusiasm
-agreeableness
-compassion
-politeness
-neuroticism
-volatility
-withdrawal
+.conscientiousness {
+	width: 90%;
+	animation: conscientiousness 3;
+}
+
+.industriousness {
+	
+}
+
+.orderliness {
+	
+}
+
+.openness {
+	
+}
+
+.intellect {
+	
+}
+
+.aesthetics {
+	
+}
+
+.extraversion {
+	
+}
+
+.assertiveness {
+	
+}
+
+.enthusiasm {
+	
+}
+
+.agreeableness {
+	
+}
+
+.compassion {
+	
+}
+
+.politeness {
+	
+}
+
+.neuroticism {
+	
+}
+
+.volatility {
+	
+}
+
+.withdrawal {
+	
+}
+
 </div>
