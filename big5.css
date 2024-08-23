@@ -28,7 +28,8 @@ p {
 	padding: 10px;
 }
 
-.bar1, .bar2 {
+.bar1, .bar2, .bar3, .bar4, .bar5 {
+	background: #353b48;
 	display: block;
 	height: 20px;
 	border: 1px solid rgba(0, 0, 0, 0.3);
@@ -38,11 +39,7 @@ p {
 	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-.bar1, .bar2 {
-	background: #353b48;
-}
-
-.bar1:hover, .bar2:hover {
+.bar1:hover, .bar2:hover, .bar3:hover, .bar4:hover, .bar5:hover {
 	box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
@@ -53,6 +50,24 @@ p {
 }
 
 .bar2 span {
+	height: 20px;
+	float: left;
+	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+}
+
+.bar3 span {
+	height: 20px;
+	float: left;
+	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+}
+
+.bar4 span {
+	height: 20px;
+	float: left;
+	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
+}
+
+.bar5 span {
 	height: 20px;
 	float: left;
 	background: linear-gradient(135deg, rgba(10, 126, 140, 1)0%, rgba(126, 140, 10, 1)100%);
